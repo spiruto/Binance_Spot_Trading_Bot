@@ -1,0 +1,9 @@
+{
+    "systemStatus":"/wapi/v3/systemStatus.html",
+    "exchangeInformation":"/api/v3/exchangeInfo",
+    "accountInformation":"/api/v3/account",
+    "currentAveragePrice":"/api/v3/avgPrice",
+    "trade":"/api/v3/order",
+    "openOrders":"/api/v3/openOrders",
+    "queryOrder":"/api/v3/allOrders"
+}
